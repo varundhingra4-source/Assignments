@@ -33,3 +33,5 @@ function checkLoanEligibility(
 
 // Function Calls
 checkLoanEligibility("John Doe", 720, 55000, true, 35);
+
+// Output: John Doe is eligible for the loan.
