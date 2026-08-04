@@ -10,7 +10,7 @@ function checkLoanEligibility(
 
     if (creditScore > 750) {
         console.log(customerName + " is eligible for the loan.");
-    } else if (creditScore >= 650 && creditScore <= 750) {
+    } else if (creditScore >= 650) {
 
         if (income >= 50000) {
             if (isEmployed) {
