@@ -49,4 +49,4 @@ console.log("Suspicious Transactions: " + suspicious);
 // Total Credit Amount: 57000
 // Total Debit Amount: 20500
 // Remaining Balance: 36500
-// Suspicious Transactions: 2
+// Suspicious Transactions: 2 
